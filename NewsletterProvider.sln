@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsletterProvider", "NewsletterProvider\NewsletterProvider.csproj", "{5426E6C4-A15F-470C-A438-00B3EEA4D0F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{50B05D64-FDD9-4F4C-90AC-22AEE59B8A64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5426E6C4-A15F-470C-A438-00B3EEA4D0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5426E6C4-A15F-470C-A438-00B3EEA4D0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5426E6C4-A15F-470C-A438-00B3EEA4D0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5426E6C4-A15F-470C-A438-00B3EEA4D0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B05D64-FDD9-4F4C-90AC-22AEE59B8A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B05D64-FDD9-4F4C-90AC-22AEE59B8A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B05D64-FDD9-4F4C-90AC-22AEE59B8A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B05D64-FDD9-4F4C-90AC-22AEE59B8A64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FD6A6E9-5DFE-46B9-AD47-B825C8BD5C13}
+	EndGlobalSection
+EndGlobal
